@@ -6,6 +6,7 @@ A list for people who desire to know
 
 ## Disciplines
 
+0. Learning, Self-Management, Critical Thiking
 1. Philosophy  
 2. Mathematics  
 3. Physics  
@@ -18,7 +19,7 @@ A list for people who desire to know
 10. Computer Science  
 11. Artificial Intelligence  
 12. Engineering  
-13. Art and Design  
+13. Art, Design, Photography, Creativity 
 14. Music  
 15. Linguistics  
 16. Sustainability and Environmental Sciences  
@@ -28,6 +29,11 @@ A list for people who desire to know
 20. Well-Being and Human Performance  
 
 ## _THE_ List
+
+
+### 0. Learning, self-management, critical thiking
+
+
 
 ### 1. Philosophy
 
@@ -112,6 +118,14 @@ A list for people who desire to know
 | Key Topics to Master                                                                                     | Essential Books Suggested                                                                                                                                                                                                                          | Extra Books for Deeper Study                                                                                                                                                                                                                                                                                        | Selected Online Resources                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Mechanical engineering, electrical engineering, bioengineering, design principles. | - To Engineer Is Human, Henry Petroski, 1985 <br> - Structures: Or Why Things Don't Fall Down, J.E. Gordon, 1978 <br> - The Existential Pleasures of Engineering, Samuel Florman, 1976 <br> - Biomedical Engineering by W. Mark Saltzman| - The Soul of a New Machine, Tracy Kidder, 1981 <br> - Skunk Works, Ben Rich, 1994<br> - Engineering a Safer World, Nancy Leveson, 2011<br> - The Art of Electronics, Paul Horowitz and Winfield Hill, 2015<br> - Theory of Machines and Mechanisms, John J. Uicker Jr., Gordon R. Pennock, Joseph E. Shigley, 2019 <br> - Engineering in the Ancient World, J.G. Landels, 1978 | - Coursera: "Engineering Mechanics" by Georgia Tech (rating 4.7/5);<br>- "Introduction to Systems Engineering" by University of Colorado Boulder (4.8/5);<br> - MIT OpenCourseWare: "Introduction to Electrical Engineering" <br> - edX: "Sustainable Engineering" by Delft University <br> - YouTube: Practical Engineering channel |
+
+
+###  13. Art, Design, Photography, Creativity
+
+| Key Topics to Master                                                              | Essential Books Suggested                                                                                                                                                                                                                                                                                                                                                                                                           | Extra Books for Deeper Study                                                                                                                                                                                                                      | Selected Online Resources                                                                                                                                                 |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Art history, design thinking, visual arts, UX/UI, digital creativity, photography | - The Story of Art, E.H. Gombrich, 1950 <br> - Ways of Seeing, John Berger, 1972 <br> - The Elements of Style in Architecture, various authors, classic <br> - Design as Art, Bruno Munari, 1966<br> - The Design of Everyday Things, Don Norman, 1988 <br> - Steal Like an Artist, Austin Kleon, 2012<br> - The Creative Act, Rick Rubin, 2023<br> - The Photographer’s EyeThe Photographer’s Eye, Michael Freeman, 2020s<br> <br> | - Understanding Comics, Scott McCloud, 1993 <br> - Interaction of Color, Josef Albers, 1963<br> - The Digital Photography Book Series, Scott Kelby<br> - Universal Principles of Design, William Lidwell, Kristina Holden, Jill Butler, 2003/2023 | - Coursera: "Graphic Design" by CalArts (rating 4.8/5) <br> - edX: "History of Art" by Harvard <br> - Khan Academy: Art section <br> - YouTube: The Futur (modern design) |
+
 
 ---
 
