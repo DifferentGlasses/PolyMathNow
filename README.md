@@ -1,8 +1,8 @@
 # PolyMathNow
 A list for people who desire to know
 
-**Please, feel free to suggest any change!**
-(But please, adding motivation)
+**Please, feel free to suggest any changes!**
+(But please kindly include a rationale)
 
 ## Disciplines
 
@@ -23,7 +23,7 @@ A list for people who desire to know
 14. Music  
 15. Linguistics  
 16. Sustainability and Environmental Sciences  
-17. Anathomy and Neuroscience  
+17. Anatomy, Physiology and Neuroscience  
 18. Ethics and Contemporary Philosophy  
 19. Geopolitics and International Relations  
 20. Well-Being and Human Performance  
